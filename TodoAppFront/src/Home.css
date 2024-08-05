@@ -1,0 +1,17 @@
+.todosbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 50px;
+    padding-right: 4px ;
+    padding-left: 4px ;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 30px;
+
+}
+.todosbox:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(42, 46, 44);
+}

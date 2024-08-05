@@ -1,0 +1,13 @@
+.input{
+    border-radius: 5px;
+    transition: 0.3s;
+    margin-bottom:  6px ;
+    border-color: none;
+    padding: 5px;
+    width: 500px;
+    height: 30px;
+}
+.input:hover {
+    background-color: rgb(53, 56, 55);
+    border-color: #646cff;
+}
